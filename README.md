@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Akshay Goyal - aka @akshaymkp
+# 👋 Hi, I’m Akshay Goyal
 
 ## Data scientist, foodie and an avid book reader!
 
