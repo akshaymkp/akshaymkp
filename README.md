@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Akshay Goyal
 
-## Data scientist, foodie and an avid book reader!
+## Data science entusiast, an avid book reader and foodie!
 
 - 🔭 I am pursuing Master's in Business Analytics from UC Davis!
 - 🌱 I’m currently learning a lot of things. 😂
