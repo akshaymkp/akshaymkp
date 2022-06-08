@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Akshay Goyal
+# 👋 Hi there, I’m Akshay
 
 ## Data science enthusiast, an avid book reader and foodie!
 
